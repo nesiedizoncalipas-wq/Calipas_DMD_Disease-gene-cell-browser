@@ -31,6 +31,7 @@ The skeletal muscle dataset was selected because Duchenne muscular dystrophy pri
 **a. What type of visualization is being shown (UMAP, t-SNE, or another layout)?**
 
 UMAP
+
 **b. What does one dot represent?**
 
 One dot represents one measured cell in the single-cell dataset.
@@ -110,7 +111,6 @@ The Type 2 MN group shows higher DMD expression compared with the comparison cel
 **c. What does the expression plot add that was not obvious from the UMAP/t-SNE map?**
 
 The expression plot provides a clearer view of the distribution of DMD expression within and among the different cell types. It helps show that DMD is detected in a high proportion of Type 2 MN cells and allows a more direct comparison of expression between cell groups.
-### Screenshot 4 - Expression Comparison
 
 ---
 
