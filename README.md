@@ -1,7 +1,9 @@
 # UCSC Cell Browser Activity
 
 **Student name:** Nesie D. Calipas
+
 **Assigned Gene:** DMD  
+
 **Associated Disease:** Duchenne muscular dystrophy (DMD)
 
 DMD is the gene that encodes dystrophin, a protein that helps maintain the stability and integrity of muscle cells. Mutations in the DMD gene are associated with Duchenne muscular dystrophy.
